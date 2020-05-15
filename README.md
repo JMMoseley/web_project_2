@@ -6,7 +6,7 @@ This project is a website focused on learning. The blocks in this project contai
 
 This site was built using HTML, styled with CSS, and structured with BEM. The site is built using Flexbox, animations, and transitions.
 
-Link to project [Github](https://jmmoseley.github.io/web_project_2/)
+Link to [project](https://jmmoseley.github.io/web_project_2/)
 
 Author
 Johanna Moseley 
