@@ -1,6 +1,6 @@
-@import url(/blocks/two-columns/__brief/two-columns__brief.css);
-@import url(/blocks/two-columns/__main-text/two-columns__main-text.css);
-@import url(/blocks/two-columns/__paragraph/two-columns__paragraph.css);
+@import url(../two-columns/__brief/two-columns__brief.css);
+@import url(../two-columns/__main-text/two-columns__main-text.css);
+@import url(../two-columns/__paragraph/two-columns__paragraph.css);
 
 .oakley {
     padding: 160px 0 80px;
