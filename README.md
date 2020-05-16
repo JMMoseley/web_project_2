@@ -1,8 +1,9 @@
-#Learning How to Learn - Web Project 1 & 2
+Learning How to Learn - Web Project 1 & 2
 
-##Part of sprint 1 & 2 of Praxticum by Yandex Bootcamp 
+Part of sprint 1 & 2 of Praxticum by Yandex Bootcamp 
 
-###Technologies:
+Technologies:
+
 * HTML5
 * CSS3
 * BEM Methodology
