@@ -1,15 +1,12 @@
-Practicum by Yandex - Web Project 2
-An inspiring website about learning how to learn
+#Learning How to Learn - Web Project 1 & 2
 
-Description
-This project is a website focused on learning. The blocks in this project contain different technique strategies, inspirational stories, informational videos, resources, and data focusing on education or learning how to learn.
+##Part of sprint 1 & 2 of Praxticum by Yandex Bootcamp 
 
-This site was built using HTML, styled with CSS, and structured with BEM. The site is built using Flexbox, animations, and transitions.
+###Technologies:
+* HTML5
+* CSS3
+* BEM Methodology
+* Flexbox
+* Animations and transitions 
 
-Link to [project](https://jmmoseley.github.io/web_project_2/)
-
-Author
-Johanna Moseley 
-
-Acknowledgments
-Hat tip to everyone at Practicum by Yandex
+[Demo Link](https://jmmoseley.github.io/web_project_2/)
