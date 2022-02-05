@@ -3,7 +3,7 @@
 </p>
 
 
-## Practicum by Yandex Bootcamp Project
+## Practicum by Yandex Project
 
 ## Sprint 1 & 2 Project: Learning How to Learn
 
